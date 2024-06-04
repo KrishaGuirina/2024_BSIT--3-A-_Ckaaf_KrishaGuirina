@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root"; // Corrected variable name
-$password = "12345";
+$password = "";
 $database = "ckaaf_db";
 
 //Create connection
